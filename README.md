@@ -71,7 +71,8 @@ Only study-related videos are allowed using:
 ---
 
 ## 📸 Screenshots
-![Home Page](images/front.png)
-![Notes Page](images/generated_notes.png)
-![Quiz Page1](images/quiz1.png)
-![Quiz Page2](images/quiz2.png)
+![Home Page](front.png)
+![Notes Page](generated_notes.png)
+![Button](button.png)
+![Quiz Page1](quiz1.png)
+![Quiz Page2](quiz2.png)
