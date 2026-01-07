@@ -1,4 +1,4 @@
-# 🎥 NoteTube AI  
+# 🎥 QuizTube AI  
 **Turn YouTube Educational Videos into Smart Notes & Quizzes using AI**
 
 ---
